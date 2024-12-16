@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I am Björn, a PhD candidate at ETH Zurich, specializing in camera-based and wearable physiological sensing for health applications and intelligent computer agents. My primary research goal is to advance current health systems and intelligent computer agents by leveraging a person's remotely estimated physiological state, derived solely from video data. Using a person's physiological state, I aim to enhance understanding of their behavior, intent, and health to, for example, improve the quality of personalized assistance.
+I am Björn, a PhD candidate in computer science at ETH Zurich, specializing in camera-based and wearable physiological sensing for health applications and intelligent computer agents. My primary research goal is to advance current health systems and intelligent computer agents by leveraging a person's remotely estimated physiological state, derived solely from video data. Using a person's physiological state, I aim to enhance understanding of their behavior, intent, and health to, for example, improve the quality of personalized assistance.
 
 - 🔭 **Dataset recordings**: During the initial phase of my PhD, I focused on recording multimodal datasets comprising synchronized video recordings and physiological signals, such as photoplethysmography (PPG) signals and electrodermal activity (EDA).
 - 🤔 **Machine learning:** Currently, I am developing novel signal processing and deep learning techniques to estimate these physiological signals from facial videos, for example, using remote photoplethysmography (rPPG).
