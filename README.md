@@ -6,7 +6,7 @@ I am Björn, a PhD candidate at ETH Zurich, specializing in camera-based and wea
 - 🤔 **Machine learning:** Currently, I am developing novel signal processing and deep learning techniques to estimate these physiological signals from facial videos, for example, using remote photoplethysmography (rPPG).
 - ⚡ **Future applications:** Ultimately, I aim to improve health solutions and intelligent computer agents using these signals.
 
-Please reach out to me via [LinkedIn]((https://www.linkedin.com/in/bjoern-braun/)) for any inquiries or check my [website](https://bjbraun.github.io) for more information.
+Please reach out to me via [LinkedIn](https://www.linkedin.com/in/bjoern-braun/) for any inquiries or check my [website](https://bjbraun.github.io) for more information.
 
 <!--
 **bjbraun/bjbraun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
