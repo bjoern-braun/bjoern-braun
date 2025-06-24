@@ -6,7 +6,7 @@ I am Björn, a PhD candidate at ETH Zurich, specializing in **egocentric and cam
 - 🤔 **Machine learning:** Currently, I am developing novel deep learning techniques to estimate these physiological signals from the recorded videos and infer a person's **affective state**.
 - ⚡ **Future applications:** Ultimately, I aim to enhance intelligent computer agents and healthcare applications using these physiological and affective indicators to provide better **user-aware, personalized assistance**.
 
-Please reach out to me via [LinkedIn](https://www.linkedin.com/in/bjoern-braun/) for any inquiries or check my [website](https://bjoernbraun.com) for more information and recent publications.
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/bjoern-braun/) or check my [website](https://bjoernbraun.com) and [Google Scholar](https://scholar.google.com/citations?user=pgvBFFsAAAAJ&hl=en) for more information and recent publications.
 
 <!--
 **bjbraun/bjbraun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
