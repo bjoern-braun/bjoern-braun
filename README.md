@@ -1,10 +1,12 @@
 ## Hi 👋
 
-I am Björn, a PhD candidate at ETH Zurich, specializing in **egocentric and camera-based physiological sensing for intelligent computer agents and health applications**. My research focuses on advancing these systems by leveraging remotely estimated physiological and affective states derived solely from video data. By analyzing a person’s physiological state, I aim to enhance the understanding of their emotions, intent, and health, ultimately improving the quality of personalized assistance.
+I am Björn, a PhD candidate at ETH Zurich, specializing in **deep learning, computer vision and non-contact physiological sensing**. My research focuses on developing novel deep learning models that predict a person's emotions and physiological signals—such as heart rate—from egocentric systems (e.g., Project Aria glasses), videos, and wearable devices. 
 
-- 🔭 **Dataset recordings**: During the initial phase of my PhD, I focused on recording **multimodal datasets** comprising synchronized egocentric and third-person camera recordings along with physiological signals such as photoplethysmography (PPG) and electrodermal activity (EDA).
-- 🤔 **Machine learning:** Currently, I am developing novel deep learning techniques to estimate these physiological signals from the recorded videos and infer a person's **affective state**.
+- 🔭 **Dataset recordings**: During the initial phase of my PhD, I focused on recording several **multimodal datasets**  comprising synchronized egocentric and third-person camera recordings along with emotions and physiological signals, such as photoplethysmograms (PPG) and electrodermal activity (EDA).
+- 🤔 **Machine learning:** Currently, I am developing novel deep learning techniques to estimate these physiological signals from the recorded (egocentric) videos and infer a person's **affective state**.
 - ⚡ **Future applications:** Ultimately, I aim to enhance intelligent computer agents and healthcare applications using these physiological and affective indicators to provide better **user-aware, personalized assistance**.
+
+Prior to my PhD, I completed a master's degree in Robotics, Systems and Control and a bachelor's degree in Mechanical Engineering, both from ETH Zurich.
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/bjoern-braun/) or check my [website](https://bjoernbraun.com) for more information and recent publications.
 
