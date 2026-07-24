@@ -1,10 +1,10 @@
 ## Hi 👋
 
-I am Björn, a PhD candidate at ETH Zurich, specializing in **deep learning, computer vision and non-contact physiological sensing**. My research focuses on developing novel deep learning models that predict a person's emotions and physiological signals—such as heart rate—from egocentric systems (e.g., Project Aria glasses), videos, and wearable devices. 
+I am Björn, a PhD candidate at ETH Zurich, specializing in **deep learning, computer vision and behavioral AI**. My research focuses on developing novel deep learning models that predict a person's emotions and physiological signals—such as heart rate—from egocentric systems (e.g., Project Aria glasses), videos, and wearable devices. 
 
 - 🔭 **Dataset recordings**: During the initial phase of my PhD, I focused on recording several **multimodal datasets**  comprising synchronized egocentric and third-person camera recordings along with emotions and physiological signals, such as photoplethysmograms (PPG) and electrodermal activity (EDA).
 - 🤔 **Machine learning:** Currently, I am developing novel deep learning techniques to estimate these physiological signals from the recorded (egocentric) videos and infer a person's **affective state**.
-- ⚡ **Future applications:** Ultimately, I aim to enhance contextual AI and healthcare approaches with the help of these signals by better understanding a user's behavior and internal state.
+- ⚡ **Future applications:** Ultimately, I aim to enhance behavioral AI and healthcare approaches with the help of these signals by better understanding a user's behavior and internal state.
 
 Prior to my PhD, I completed a master's degree in Robotics, Systems and Control and a bachelor's degree in Mechanical Engineering, both from ETH Zurich.
 
